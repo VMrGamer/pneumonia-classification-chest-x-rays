@@ -36,9 +36,7 @@
 
 ## Visuals
 
-![interpolation](https://miro.medium.com/max/480/0*cYaaF2pFLECohCaI.gif)
 
-Image generation through latent space interpolation. Source: Bilinear interpolation on latent space for random noise vectors. Figure 20
 
 ## Installation 
 
