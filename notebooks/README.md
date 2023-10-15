@@ -2,7 +2,7 @@
 
  ![social](https://img.shields.io/github/followers/VMrGamer?style=social)![twitter](https://img.shields.io/twitter/follow/VedantPat?style=social)![languages](https://img.shields.io/github/languages/count/VMrGamer/pneumonia-classification-chest-x-rays)
 
- Here, the work notebooks are kept for the Masters Project on, "Comparing Transfer Learning methods to classify Pneumonia in Chest X-rays using Grad-CAMs"
+ Here, the work notebooks are kept for the Masters Project on, "Comparing Transfer Learning methods to classify Pneumonia in Chest X-rays using Grad-CAMs" by Vedant Patadia, Manan Patel and under the supervision/guidance of Dr.Xing Tan
  
  
 ## Table of Contents
@@ -38,8 +38,8 @@
 
 ## Road-map
 
-- 
--
+- Add notebooks from the data generation module
+- Sort the notebooks in versions, models and target results
 
 
 ## License

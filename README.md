@@ -2,7 +2,7 @@
 
  ![social](https://img.shields.io/github/followers/VMrGamer?style=social)![twitter](https://img.shields.io/twitter/follow/VedantPat?style=social)![languages](https://img.shields.io/github/languages/count/VMrGamer/pneumonia-classification-chest-x-rays)
 
- This is a repository for my Masters Major Project on, "Comparing Transfer Learning methods to classify Pneumonia in Chest X-rays using Grad-CAMs"
+ This is a repository for my Masters Major Project on, "Comparing Transfer Learning methods to classify Pneumonia in Chest X-rays using Grad-CAMs" by Vedant Patadia, Manan Patel and under the supervision/guidance of Dr.Xing Tan
 
 
 ## Table of Contents
@@ -147,7 +147,10 @@ _You can also visit the [The Jupyter Notebook](https://jupyter-notebook.readthed
 
 ## Road-map
 
-- 
+- Update readme and add descriptions
+- Add and sort notebooks
+- Add more visuals
+- Update Citations from original text
 
 
 ## How to contribute
@@ -158,8 +161,7 @@ _You can also visit the [The Jupyter Notebook](https://jupyter-notebook.readthed
 
 ## Acknowledgements
 
-1. []()
-2. []()
+1. [Daniel Kermany, Kang Zhang, Michael Goldbaum, "Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification"](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 
 
 ## License
