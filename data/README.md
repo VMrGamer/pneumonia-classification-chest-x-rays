@@ -18,6 +18,7 @@
 
 ## Manifest
 
+- The list of the top-level files in the project.
 
 ```
 - README.md ------> This markdown file you are reading.
