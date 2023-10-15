@@ -44,8 +44,6 @@
 
 ## License
 
-- The project is Open Source, with MIT License
-- The link to the License can be found [here]()
 
 
 ## Project Status
