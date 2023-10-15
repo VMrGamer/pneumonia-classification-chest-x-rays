@@ -1,4 +1,4 @@
-# latent-space-investigation (v 1.0) - notebooks
+# pneumonia-classification-chest-x-rays (v 1.0) - notebooks
 
  ![social](https://img.shields.io/github/followers/VMrGamer?style=social)![twitter](https://img.shields.io/twitter/follow/VedantPat?style=social)![languages](https://img.shields.io/github/languages/count/VMrGamer/pneumonia-classification-chest-x-rays)
 

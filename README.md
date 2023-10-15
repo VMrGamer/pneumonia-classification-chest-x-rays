@@ -1,8 +1,8 @@
-# latent-space-investigation (v 1.0)
+# pneumonia-classification-chest-x-rays (v 1.0)
 
- ![social](https://img.shields.io/github/followers/VMrGamer?style=social)![twitter](https://img.shields.io/twitter/follow/VedantPat?style=social)![languages](https://img.shields.io/github/languages/count/VMrGamer/latent-space-investigation)
+ ![social](https://img.shields.io/github/followers/VMrGamer?style=social)![twitter](https://img.shields.io/twitter/follow/VedantPat?style=social)![languages](https://img.shields.io/github/languages/count/VMrGamer/pneumonia-classification-chest-x-rays)
 
- This is a repository for my Research Methodology Course Project on, Investigation of Latent Space in Variational AutoEncoders
+ This is a repository for my Masters Major Project on, "Comparing Transfer Learning methods to classify Pneumonia in Chest X-rays using Grad-CAMs"
 
 
 ## Table of Contents
@@ -139,31 +139,6 @@ _You can also visit the [The Jupyter Notebook](https://jupyter-notebook.readthed
 
 - Or if you have installed [Anaconda Individual Edition](https://www.anaconda.com/products/individual), then just open the Anaconda Prompt and run the respective commands for client.
 
-- MNIST Digit dataset prediction animation.
-
-![mnist_prediction_animation](img/mnist_gif.gif)
-
-- MNIST Digit dataset latent space.
-
-![mnist_latent_space](img/mnist_latent_space.png)
-
-- cifar10 dataset prediction animation.
-
-![cifar10_prediction_animation](img/cifar10_gif.gif)
-
-- cifar10 dataset latent space.
-
-![cifar10_latent_space](img/cifar10_latent_space.png)
-
-- MNIST Fashion dataset prediction animation.
-
-![mnist_fashion_prediction_animation](img/fashion_mnist_gif.gif)
-
-- MNIST Fashion dataset latent space.
-
-![mnist_fashion_latent_space](img/fashion_mnist_latent_space.png)
-
-
 ## Support
 
 - Contact: [email me](v.mr.gamer@gmail.com)
@@ -172,10 +147,7 @@ _You can also visit the [The Jupyter Notebook](https://jupyter-notebook.readthed
 
 ## Road-map
 
-- Our current goal is to get the latent space of a Variational AutoEncoders
-- We can expand the work to Autoencoders and Generative Adversarial Networks
-- Ambitiously, expand the work to Transformer Networks and Manifold Learners
-- Superficially, Work on expanding the project into a library of sorts
+- 
 
 
 ## How to contribute
@@ -186,17 +158,17 @@ _You can also visit the [The Jupyter Notebook](https://jupyter-notebook.readthed
 
 ## Acknowledgements
 
-1. [Ekin Tiu, "Understanding Latent Space in Machine Learning"](https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d)
-2. [Tensorflow, "Convolutional Variational Autoencoder"](https://www.tensorflow.org/tutorials/generative/cvae)
+1. []()
+2. []()
 
 
 ## License
 
 - The project is Open Source, with MIT License
-- The link to the License can be found [here](https://github.com/VMrGamer/latent-space-investigation/blob/main/LICENSE)
+- The link to the License can be found [here]()
 
 
 ## Project Status
 
-- The project is currently under development, under further notice.
+- The project development has completed and submitted.
 - Feel free to contribute, generate Pull Requests or raise Issues, it is very much appreciated.

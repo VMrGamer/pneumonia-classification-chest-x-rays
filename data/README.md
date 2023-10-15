@@ -49,5 +49,5 @@
 
 ## Project Status
 
-- The project is currently under development, under further notice.
+- The project development has completed and submitted.
 - Feel free to contribute, generate Pull Requests or raise Issues, it is very much appreciated.
