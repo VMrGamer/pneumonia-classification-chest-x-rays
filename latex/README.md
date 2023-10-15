@@ -1,8 +1,8 @@
-# latent-space-investigation (v 1.0) - data
+# pneumonia-classification-chest-x-rays (v 1.0) - data
 
- ![social](https://img.shields.io/github/followers/VMrGamer?style=social)![twitter](https://img.shields.io/twitter/follow/VedantPat?style=social)![languages](https://img.shields.io/github/languages/count/VMrGamer/latent-space-investigation)
+ ![social](https://img.shields.io/github/followers/VMrGamer?style=social)![twitter](https://img.shields.io/twitter/follow/VedantPat?style=social)![languages](https://img.shields.io/github/languages/count/VMrGamer/pneumonia-classification-chest-x-rays)
 
- Here are all the LaTeX documents generated during the Course Project on, Investigation of Latent Space in Variational AutoEncoders
+ Here are all the LaTeX documents generated during the Masters Project on, "Comparing Transfer Learning methods to classify Pneumonia in Chest X-rays using Grad-CAMs"
 
 
 ## Table of Contents
@@ -22,8 +22,9 @@
 
 ```
 - README.md -------------------------> This markdown file you are reading.
-- literature_review ---> The LaTeX files for Literature Review Submission.
 - project_proposal -----> The LaTeX files for Project Proposal Submission.
+- amia_submission ---> The LaTeX files for AMIA Manuscript Submission.
+- final_project_write_up -----> The LaTeX files for Final project report&/manuscript.
 ```
 
 
@@ -47,10 +48,10 @@
 ## License
 
 - The project is Open Source, with MIT License
-- The link to the License can be found [here](https://github.com/VMrGamer/latent-space-investigation/blob/main/LICENSE)
+- The link to the License can be found [here]()
 
 
 ## Project Status
 
-- The project is currently under development, under further notice.
+- The project development is complete and submitted.
 - Feel free to contribute, generate Pull Requests or raise Issues, it is very much appreciated.
